@@ -1,0 +1,6 @@
+@NabusoftProje.API_HostAddress = http://localhost:5239
+
+GET {{NabusoftProje.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
