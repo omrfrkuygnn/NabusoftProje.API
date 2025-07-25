@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using NabusoftProje.API.Models;
 
 namespace NabusoftProje.API.Data
 {
