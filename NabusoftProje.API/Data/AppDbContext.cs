@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace NabusoftProje.API.Models
+namespace NabusoftProje.API.Data
 {
     public class AppDbContext : DbContext
     {
