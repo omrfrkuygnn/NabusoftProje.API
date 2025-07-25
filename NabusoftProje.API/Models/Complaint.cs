@@ -11,9 +11,8 @@
         public User User { get; set; }
 
         public string Message { get; set; }
-        public string Reason { get; set; } // Şikayet sebebi
-
-        public string Status { get; set; } = "Bekliyor"; // veya enum
+        public string Reason { get; set; } 
+        public string Status { get; set; } = "Bekliyor"; 
 
         public DateTime CreatedAt { get; set; } = DateTime.Now;
     }
