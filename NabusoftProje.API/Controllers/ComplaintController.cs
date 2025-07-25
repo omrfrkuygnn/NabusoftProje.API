@@ -1,5 +1,5 @@
-﻿using EtkinlikKatilimApi.Data;
-using EtkinlikKatilimApi.Models;
+﻿using NabusoftProje.API.Data;
+using NabusoftProje.API.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
