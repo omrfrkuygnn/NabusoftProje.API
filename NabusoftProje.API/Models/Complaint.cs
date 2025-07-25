@@ -1,4 +1,4 @@
-﻿namespace EtkinlikKatilimApi.Models
+﻿namespace NabusoftProje.API.Models
 {
     public class Complaint
     {

@@ -1,4 +1,5 @@
-﻿namespace EtkinlikKatilimApi.Models
+﻿namespace NabusoftProje.API.DTOs
+
 {
     public class ComplaintCreateDto
     {
